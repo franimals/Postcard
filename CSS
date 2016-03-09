@@ -1,0 +1,20 @@
+.table {
+  border: 1px solid transparent;
+  width: 100%;
+  text-align: center;
+}
+
+.thumbImg {
+  height: 50px;
+  width: 25%;
+}
+
+.postcardDisplay {
+  background-color: lightgray;
+}
+
+.postcardContent {
+  background-color: pink;
+  height: 100px;
+  width: 100%;
+}
