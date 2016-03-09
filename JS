@@ -1,0 +1,13 @@
+
+function myFunction() {
+  document.getElementById("demo").innerHTML = '<img src="http://www.franimals.me/images/bear_roses.jpg" style="height: 300px;">';
+}
+
+function myFunction2() {
+  document.getElementById("demo").innerHTML = '<img src="http://www.franimals.me/images/house.jpg" style="height: 300px;">';
+}
+
+
+function myFunction3() {
+  document.getElementById("demo").innerHTML = '<img src="http://www.franimals.me/images/snowdog.jpg" style="height: 300px;">';
+}
